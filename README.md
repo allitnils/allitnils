@@ -67,7 +67,7 @@ I'm a dedicated data scientist and quantitative analyst passionate about leverag
 - **Email:** [ivan@ivanocampo.com](mailto:ivan@ivanocampo.com)
 
 ## 📈 GitHub Stats
-![Ivan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivanocampo&show_icons=true&theme=dracula)
+![Ivan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=allitnils&show_icons=true&theme=dracula)
 
 ## 🧩 Connect with Me
 Feel free to reach out for collaborations, projects, or just a friendly chat about data science, programming, and enterprise architecture!
