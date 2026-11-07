@@ -1,73 +1,34 @@
-# 👋 Hi, I’m Ivan Ocampo
+# Ivan Ocampo
 
-## 🌟 About Me
-I'm a dedicated data scientist and quantitative analyst passionate about leveraging data to drive insightful decisions. With a strong foundation in various programming languages, tools, and architectural frameworks, I thrive on solving complex problems and creating impactful visualizations.
+**Chief Architect at Accent Group, Melbourne · PhD, Australian Institute of Business (2025)**
 
-## 🔭 Current Projects
-- **Data Science & Analysis:** Building robust data pipelines and analytical models using Python and pandas.
-- **Machine Learning:** Developing and deploying models with TensorFlow and other ML frameworks.
-- **Cloud Solutions:** Implementing scalable solutions on Microsoft Azure and AWS.
-- **Web Development:** Creating dynamic web applications using Ruby on Rails and JavaScript frameworks.
-- **Enterprise Architecture:** Designing and optimizing system architectures following TOGAF principles.
+I'm Ivan Ocampo. I design enterprise infrastructure (network, cloud, observability and security architecture) and I research how people experience work across physical and digital spaces.
 
-## 🌱 I’m Currently Learning
-- **Advanced Python:** Exploring deeper functionalities and optimization techniques.
-- **Machine Learning Frameworks:** Expanding knowledge beyond TensorFlow to include PyTorch and scikit-learn.
-- **Cloud Architecture:** Enhancing skills in cloud infrastructure and services on Azure and AWS.
-- **Apache Spark:** Leveraging Spark for big data processing and analytics.
-- **Enterprise Architecture:** Deepening understanding of TOGAF and related architectural tools.
+🌐 **[ivanocampo.com](https://ivanocampo.com)**: blog, research and background
 
-## 💻 Skills
+## Research
 
-### **Programming Languages**
-- **Data Science & Analysis:** Python, R, MATLAB, Julia
-- **Web Development:** Ruby, Ruby on Rails, JavaScript, PHP
-- **General Programming:** C, C++, Java, Perl, Lisp
-- **Databases:** SQL, MySQL, Oracle
-- **Scripting:** UNIX Shell Scripting, TCL/TK
+- **Dissertation:** *Space Between Spaces: Rituals, Liminality, and the Dynamics of Remote Work Intensity* (PhD, Australian Institute of Business, 2025). [Read more](https://ivanocampo.com/research/)
+- **In development:** *The Body Between*, a phenomenological manuscript drawing on Merleau-Ponty, Csordas and Wacquant
 
-### **Tools & Technologies**
-- **Data Visualization:** Matplotlib, Seaborn, MATLAB Visualization, Julia Plots
-- **Statistical Analysis:** SPSS, SAS, Stata, R
-- **Documentation:** LaTeX, BibTeX, EndNote
-- **Version Control:** Git, GitHub
-- **Web Development:** JavaScript, PHP, Ruby on Rails
-- **Big Data:** Apache Spark
-- **Automation & Scripting:** TCL/TK
-- **Enterprise Architecture:** TOGAF, ArchiMate, Enterprise Architect
+## Selected projects
 
-### **Operating Systems**
-- **Desktop:** Microsoft Windows, Apple macOS
-- **Server & UNIX Variants:** Linux, BSD, Solaris, other UNIX variants
+| Project | What it does |
+|---|---|
+| [phenomenal](https://github.com/allitnils/phenomenal) | Self-hosted qualitative research platform: thematic coding, grounded theory, co-occurrence visualisation |
+| [papertrail](https://github.com/allitnils/papertrail) | Academic literature management and citation graph platform |
+| [infractl](https://github.com/allitnils/infractl) | Azure infrastructure auditing CLI: drift, cost, tagging and policy compliance |
+| [llm-eval-harness](https://github.com/allitnils/llm-eval-harness) | Self-hosted LLM evaluation and side-by-side model comparison |
+| [decoded](https://github.com/allitnils/decoded) | Paste a tech job description and see what you're really walking into |
 
-### **Cloud Platforms**
-- **Microsoft Azure:** Azure Machine Learning, Azure Storage, Azure DevOps
-- **Amazon Web Services (AWS):** EC2, S3, Lambda, RDS, AWS Glue, AWS SageMaker
+## Certifications
 
-### **Machine Learning Frameworks**
-- **TensorFlow**
-- **scikit-learn**
-- **Keras**
-- **PyTorch** *(in progress)*
+`TOGAF` · `CCNP` · `ITIL` · `PhD 2025`
 
-### **Enterprise Architecture Frameworks**
-- **TOGAF (The Open Group Architecture Framework)**
-- **ArchiMate**
+## Find Ivan Ocampo elsewhere
 
-## 🛠 Additional Tools
-- **Reference Management:** EndNote, Zotero
-- **Data Management:** MySQL Workbench, pgAdmin, Oracle SQL Developer
-- **Statistical Tools:** SPSS, SAS, Stata, R
-- **Development Tools:** MATLAB, Julia, Eclipse, Visual Studio Code
-- **Enterprise Architecture Tools:** Enterprise Architect, Archi
-
-## 📫 How to Reach Me
-- **Website:** [ivanocampo.com](https://ivanocampo.com)
-- **LinkedIn:** [linkedin.com/in/ivanocampo](https://www.linkedin.com/in/ivanocampo)
-- **Email:** [ivan@ivanocampo.com](mailto:ivan@ivanocampo.com)
-
-## 📈 GitHub Stats
-![Ivan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=allitnils&show_icons=true&theme=dracula)
-
-## 🧩 Connect with Me
-Feel free to reach out for collaborations, projects, or just a friendly chat about data science, programming, and enterprise architecture!
+- Website: [ivanocampo.com](https://ivanocampo.com)
+- ORCID: [0000-0002-8532-0673](https://orcid.org/0000-0002-8532-0673)
+- Google Scholar: [Ivan Ocampo](https://scholar.google.com/citations?user=QEOarFgAAAAJ)
+- ResearchGate: [Ivan Ocampo](https://www.researchgate.net/profile/Ivan-Ocampo-2)
+- Email: [ivan@ivanocampo.com](mailto:ivan@ivanocampo.com)
